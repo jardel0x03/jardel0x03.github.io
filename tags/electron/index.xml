@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electron on 贾德尔的笔记本</title><link>/tags/electron/</link><description>Recent content in Electron on 贾德尔的笔记本</description><generator>Hugo 0.125.0</generator><language>zh-CN</language><lastBuildDate>Sun, 29 Jun 2025 03:23:33 +0800</lastBuildDate><atom:link href="/tags/electron/index.xml" rel="self" type="application/rss+xml"/><item><title>Master 2/2s 鼠标滚轮模块拆解与维修</title><link>/posts/electron/logitech-master2s-scroll-wheel-repair/</link><pubDate>Tue, 22 Apr 2025 21:00:00 +0800</pubDate><guid>/posts/electron/logitech-master2s-scroll-wheel-repair/</guid><description>Master 2 鼠标滚轮模块拆解与维修 适用于 Logitech MX Master 2 / 2S 鼠标的滚轮卡顿、不灵敏、失效等问题。
+🛠️ 背景 Logitech Master 2/2s 系列鼠标广受欢迎,滚轮损坏及脱胶情况。
+本文记录实际拆解与维修过程，供有类似问题的用户参考。
+🧰 所需工具 十字螺丝刀（小号） 撬棒或塑料拨片 镊子 棉签 + 酒精 美工刀 需要替换的金属滚轮（咸鱼有卖） 🔍 故障现象 滚轮卡顿或不灵敏 滚轮防滑橡胶脱落粘手，使用体验不好 📸 拆解步骤（附图建议） 断电 / 关闭鼠标
+确保鼠标处于关闭状态，避免静电损伤 如果是无线鼠标，取出电池或断开 USB 接收器 移除鼠标底部贴纸/脚垫
+底部有螺丝隐藏在脚垫下方 拆卸螺丝
+使用十字螺丝刀拆卸底部螺丝 注意螺丝位置，避免混淆 撬开上壳
+使用撬棒或塑料拨片小心撬开鼠标上壳 取出滚轮模块
+小心拔出滚轮模块，注意不要损伤排线 清洁滚轮
+使用棉签沾酒精清洁滚轮轴承和滚轮表面 清除灰尘和污垢，确保滚轮顺畅 拆下金属滚轮
+使用敲棒辅助拆卸金属滚轮，两侧一起用力很容易拆解下来 更换金属滚轮
+如果滚轮损坏或脱胶，可以更换新的金属滚轮 注意安装方向，确保滚轮正确放置 重新组装鼠标
+按照拆解步骤的反向操作，重新组装鼠标 确保所有螺丝和部件都安装到位 测试鼠标功能
+连接鼠标，测试滚轮是否正常工作 确保滚轮灵敏度和防滑效果良好</description></item></channel></rss>
